@@ -130,7 +130,7 @@ class reCAPTCHA_Activity : AppCompatActivity() {
         private val SAFETY_NET_API_KEY = "6Le7bloUAAAAALdVrWl5RUynjZoJAF3ZllhlM5Kc"
 
         // TODO: replace the SERVER API URL with yours
-        private val VERIFY_ON_API_URL_SERVER = "https://galleonsoft.com/api-demo/safetynet-recaptcha-verfication.php"
+        private val VERIFY_ON_API_URL_SERVER = "http://apps.galleonsoft.com/api-example/safetynet-recaptcha-verfication.php"
     }
 
 }
