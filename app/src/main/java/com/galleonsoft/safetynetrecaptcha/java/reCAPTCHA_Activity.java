@@ -37,7 +37,7 @@ public class reCAPTCHA_Activity extends AppCompatActivity {
     private static final String SAFETY_NET_API_KEY = "6LdYZFoUAAAAAAXxuGh0OAnQ_8moTpkzhEtcqARB";
 
     // TODO: replace the SERVER API URL with yours
-    private static final String VERIFY_ON_API_URL_SERVER = "http://galleonsoft.com/api-demo/safetynet-recaptcha-verfication.php";
+    private static final String VERIFY_ON_API_URL_SERVER = "http://apps.galleonsoft.com/api-example/safetynet-recaptcha-verfication.php";
 
     EditText et_message;
     LinearLayout linearLayoutForm;
